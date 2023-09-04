@@ -1,5 +1,5 @@
 # FNC-Screening
-X. Jessie Jeng
+X. Jessie Jeng and Yifei Hu
 
 This R package implements an effective method to retain weak signals through false negative control.  
 
